@@ -1,0 +1,7 @@
+*.pyc
+.env
+*.xlsx
+*.png
+orders.json
+finished_orders.json
+assortiment.json

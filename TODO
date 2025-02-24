@@ -1,0 +1,30 @@
+- telegram bot:
+ -- functionality:
+  contact manager
+  select snus
+  select amount of snus
+  respond that it's reserved
+  cancel reservation
+  menu buttons
+  save logs
+  rating system??
+
+- django app (or other framework):
+ -- functionality:
+  see all reservations
+  confirm or delete reservation
+  add new item or remove it
+  change price
+  change availability
+  open chat with user
+  db or xlsx
+  money tracking option??
+
+:db schematics
+tables :
+  reservations
+  items
+  payments
+  messages
+  ratings
+  

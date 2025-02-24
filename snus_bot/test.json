@@ -1,0 +1,670 @@
+{
+    "KASTA 101mg": {
+        "PRICE": 550,
+        "AVAILABILITY": 1,
+        "Мята": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Дыня": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Бабл гам": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Персик с мёдом": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Клубника": {
+            "amount": 0,
+            "availability": 0
+        }
+    },
+    "KASTA 105mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 0,
+        "Арбуз": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Зефир": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Ледяной виноград": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "KASTA COVID 120mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Нектариновый омикрон": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Лесные ягоды": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Манго личи": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "KASTA DOTA2 120mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Puck": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Invoker": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Wraith King": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Templar Assassin": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Shadow Fiend": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Bloodseeker": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Drow Ranger": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Monkey King": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Pudge": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Dazzle": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "KASTA ANIME 125mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Tobirama": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Minato": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Madara": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Jiraya": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Hashirama": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Guy": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Obito": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Sasuke": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Itachi": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Kakashi": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Naruto": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Pain": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "KASTA PHOBIA 125mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Лимон": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Яблоко": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Цитрус": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Тропик бабл": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Конфеты": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "NICTECH 60mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Виноград": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Тротил": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Яблоко": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ШОК 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Чёрная смородина хвоя": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Клубника кокос": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Йогурт персик банан": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Манго": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Яблоко": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Бабл": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Мята": {
+            "amount": 0,
+            "availability": 0
+        }
+    },
+    "ICEBERG 80-150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Exotic": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Кола": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Арбузная жвачка": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Дабл минт": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Черника": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Виноград": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Goosebumps": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Блэк": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Тофифи": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Вишня": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ICEBERG HYPER 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Ананас": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Печенье": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Киви": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ICEBERG GHETTO 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Байкал": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Клубника личи": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Энергетик барбарис": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Малина вишня": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Перечная мята": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ICEBERG ULTRA 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Клубника гранат": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Кислые ягоды": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Сладкая мята": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ARQA 70mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Cold Dry": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Энергетик": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Кола": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Ягодный микс с цитрусом": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Ягоды лёд": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Бабл гам": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Малина виноград": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ARQA 100mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Мята": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Арбуз": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ARQA CS GO 120mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Манго маракуя": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ARQA DOTA2 120mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Чёрный виноград": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Ананас банан личи": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Гранатовый сок": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Фанта": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Капучино": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Алоэ виноград": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Арбуз клубника": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Морозная мята": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Голубой лимонад": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ARQA D.L.T.A 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Pepsi (Пепси)": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Adrenalin rush (Апельсин)": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Adrenalin rush (Ягоды)": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Burn (Яблоко, киви)": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Red bull (Арбуз)": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ARQA 30puck 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Cold Dry": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Персик манго": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ТРИНАШКА 30puck 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Кактус киви": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Кокос банан": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Клубника банан кокос": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Вишня смородина": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Энергетик черника": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Лесные ягоды": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Манго": {
+            "amount": 0,
+            "availability": 0
+        }
+    },
+    "GUCCI SNUS 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Candy Crash": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Banana Papa": {
+            "amount": 0,
+            "availability": 0
+        },
+        "Whiskey Cola Cherry": {
+            "amount": 0,
+            "availability": 0
+        }
+    },
+    "BOOBS 150mg 30 puck": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Мандарин": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Яблоко с корицей": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Глинтвейн": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "Simpsons 150mg 30 puck": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Голубая лагуна": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Вишня": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Мандариновый фреш": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Манго, Дыня, Клубника": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Арбуз": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Яблоко, Дюшес": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "Futurama 150mg 30 puck": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Личи с клубничным джемом": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Черника со сливками": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Манговый милкшейк": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "Дойпак Simpsons 150mg 60 puck": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Мардж + Гомер": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "BLAX 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Ваниль кола": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "Rick and Morty 150mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Холс": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Груша, манго, мята": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "MAD 120mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Fatality": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ICECOOL 50-55mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Mint 8": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Frosty cherry": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Mint 9": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Blueberry 9": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Raspberry 9": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Double mint 9": {
+            "amount": 0,
+            "availability": 1
+        },
+        "Cola Vanilla 9": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "LYFT 35-40mg": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "Синий": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "KASTA ТАБАЧНАЯ": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "TOBACCO": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ODEN’S ORIGINAL": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "16gr": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "ODEN’S COPY": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "13gr": {
+            "amount": 0,
+            "availability": 1
+        }
+    },
+    "SIBERIA COPY": {
+        "PRICE": 0,
+        "AVAILABILITY": 1,
+        "13gr": {
+            "amount": 0,
+            "availability": 0
+        }
+    }
+}
